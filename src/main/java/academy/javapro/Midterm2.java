@@ -3,8 +3,6 @@ package academy.javapro;
 import java.util.*;
 import java.util.function.BiFunction;
 
-// TODO: import the necessary classes for the following code to work.
-
 public class Midterm2 {
 
         /**
